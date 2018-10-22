@@ -1,3 +1,4 @@
+
 #include"min.h"
 int min_f(int mas[], int lengthMas) {
 	int min;
