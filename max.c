@@ -1,5 +1,4 @@
 
-#include"max.h"
 int max_f(int mas[], int lengthMas) {
 	int max;
 	max = mas[0];
