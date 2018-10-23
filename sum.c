@@ -1,6 +1,4 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include"sum.h"
+
 int sum_f(int mas[], int min) {
 	int i = 0;
 	int sum = 0;
