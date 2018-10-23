@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include<stdlib.h>
 #include "max.h"
 #include "min.h"
 #include "diff.h"
