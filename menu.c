@@ -23,8 +23,8 @@ int main() {
 	while(symbol != '\n');
 	max = max_f(mas, lengthMas);
 	min = min_f(mas, lengthMas);
-	diff = diff_f(max, min);
-	sum = sum_f(mas, min);
+	diff = diff_f(mas, lengthMas);
+	sum = sum_f(mas, lengthMas);
 	switch (command) {
 		case 0:
 			printf("%d\n", max);
