@@ -1,1 +1,1 @@
-int sum_f(int mas[], int min);
+int sum_f(int mas[], int lengthMas);
